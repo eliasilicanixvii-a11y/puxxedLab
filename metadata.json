@@ -1,0 +1,8 @@
+{
+  "name": "Puxxed Lab",
+  "description": "Un gioco basato su Cut the rope experiments con il micino Azuro, formaggio e calabroni razzo!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
